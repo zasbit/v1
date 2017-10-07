@@ -51,7 +51,7 @@
     driverClassName="org.postgresql.Driver" initialSize="5" maxWait="5000"
     maxActive="120" maxIdle="5" validationQuery="select 1"
     poolPreparedStatements="true"> </Resource> -->
-	<Resource auth="Container" driverClassName="org.postgresql.Driver" initialSize="5" maxActive="120" maxIdle="5" maxWait="5000" name="jdbc/standard" password="aqamnsq" poolPreparedStatements="true" type="javax.sql.DataSource" url="jdbc:postgresql://23.94.247.205:5432/standard" username="postgres" validationQuery="select 1"/>
+	<Resource auth="Container" driverClassName="org.postgresql.Driver" initialSize="5" maxActive="120" maxIdle="5" maxWait="5000" name="jdbc/standard" password="aqamnsq" poolPreparedStatements="true" type="javax.sql.DataSource" url="jdbc:postgresql://23.94.247.205:5432/zasbitv1" username="postgres" validationQuery="select 1"/>
 
 
   </GlobalNamingResources>
